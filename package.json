@@ -1,0 +1,16 @@
+{
+  "name": "reversestring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tyler",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/dom": "^10.0.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
